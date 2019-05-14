@@ -3,23 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: The ـDigital Sufismـ Blog | تدوين موقع التصوّف الرقميّ
+name: The <i>Digital Sufism</i> Blog | تدوين موقع التصوّف الرقميّ
 
 # Short bio or description (displayed in the header)
-description: See the main site for Digital Sufism [here](https://zurstadt.github.io/digitalsufism/)
-
-
-#
-# Flags below are optional
-#
+description: See the main site for <a href="https://zurstadt.github.io/digitalsufism/">Digital Sufism</a> for further information about the scope of the project.
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: farrell.jedw@gmail.com
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-140121905-1
@@ -32,7 +23,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/digitalsufism"
 
 #
 # !! You don't need to change any of the configuration flags below !!
