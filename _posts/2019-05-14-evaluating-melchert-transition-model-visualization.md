@@ -3,8 +3,6 @@ layout: post
 title: Capturing and visualizing dynamic processes in early Sufism:<br>Evaluating Melchert's 'transition model'
 ---
 
-### Capturing and visualizing dynamic processes in early Sufism:<br>Evaluating Melchert's "transition" model
-
 Computational methods readily lend themselves to concrete applications in certain sub-fields of study: e.g. analysis of the fluctuation of commodity prices or demographic change. <a id="n0"></a>[*](#f0) A major issue arises, however, when it comes to enacting computational procedures to abstract objects of inquiry that constitute much of what historians spend their time and energy on, such as "schools of thought," "movements," "civilizations," etc.<sup id="n1">[1](#f1)</sup> The challenge appears to be two-fold:  
    
 **1**. Capturing (aspects of) the highly complex sets of interrelations that make notional entites like "movements" so compelling as objects of study;  
