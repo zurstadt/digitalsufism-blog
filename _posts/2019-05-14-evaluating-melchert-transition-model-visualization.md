@@ -34,7 +34,7 @@ With these facts in mind, we can now comment more broadly on Melchert's model. I
 
 |**Figure 1** – Types of Observed Phase Transitions|
 |-----------------------------------|
-|<a id="pic1"></a> ![Phase Transitions](https://github.com/zurstadt/digitalsufism-blog/blob/master/images/posts/melchert-transition/phasetransitions.png)<br>**Source**: F.W. De Sousa Lima, "Phase Transitions in Equilibrium and Non-Equilibrium Models on Some Topologies," _Entropy_ 18/3 (2016). [(link)](https://doi.org/10.3390/e18030081 "Download")|
+|<a id="pic1"></a> ![Phase Transitions](/images/posts/melchert-transition/phasetransitions.png)<br>**Source**: F.W. De Sousa Lima, "Phase Transitions in Equilibrium and Non-Equilibrium Models on Some Topologies," _Entropy_ 18/3 (2016). [(link)](https://doi.org/10.3390/e18030081 "Download")|
 
 #### <a id="critique">An empirical critique of Melchert's "transition" model</a>
 
@@ -76,7 +76,7 @@ As mentioned, we wanted to use this list to "measure" or "weigh" the consistency
 
 |**Figure 2** – Schematic of tokenized "ascetic" and "mystical" sayings|
 |----------------------------------------------------------------------|
-|![tokenized-ascetic-mystic](https://github.com/zurstadt/digitalsufism-blog/blob/master/images/posts/melchert-transition/consistency_metric-1.jpg/)<br>**-** Green dots represent **leaders**<br>**-** "a" indicates a lexeme tokenized as **ascetic**<br>**-** "m" indicates a lexeme tokenized as **mystical**|
+|![tokenized-ascetic-mystic](/images/posts/melchert-transition/consistency_metric-1.jpg/)<br>**-** Green dots represent **leaders**<br>**-** "a" indicates a lexeme tokenized as **ascetic**<br>**-** "m" indicates a lexeme tokenized as **mystical**|
 
 If the prediction of Melchert's model is correct, then we should see the following dynamics reflected in a visualiation:
 
@@ -131,8 +131,7 @@ The previous code produces the following dynamic visualization:
 
 |**Figure 3** - "Consistency" of Iraqi Sufi leaders' sayings over time|
 |---------------------------------------------------------------------|
-|![sufi-consistency](https://github.com/zurstadt/digitalsufism-blog/blob/master/images/posts/melchert-transition/animation.gif)|
-
+|![sufi-consistency](/images/posts/melchert-transition/animation.gif)|
 
 This graphic charts approximately 350 years' worth of data in what we termed the "consistency" of the sayings for those whom early Iraqi Sufis identified as their leaders. I was really excited to share this graphic at _MESA_ because it seemed to embody the qualities of a good visualization outlined by [John Thiebault](https://writinghistory.trincoll.edu/evidence/theibault-2012-spring/ "Read online"): _transparency_, _accuracy_, and _information richness_. That is, it seems to tick all the boxes with respect to the question of: **Did Sufi leaders change the way they talked around the middle of the 3rd/9th century?** 
 
